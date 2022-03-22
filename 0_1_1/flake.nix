@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-trick-0_1_1.flake = false;
+  inputs.src-trick-0_1_1.ref   = "refs/tags/0.1.1";
   inputs.src-trick-0_1_1.owner = "exelotl";
-  inputs.src-trick-0_1_1.ref   = "0_1_1";
   inputs.src-trick-0_1_1.repo  = "trick";
   inputs.src-trick-0_1_1.type  = "github";
   
