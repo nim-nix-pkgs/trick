@@ -11,7 +11,6 @@
   inputs.src-trick-0_1_2.ref   = "refs/tags/0.1.2";
   inputs.src-trick-0_1_2.owner = "exelotl";
   inputs.src-trick-0_1_2.repo  = "trick";
-  inputs.src-trick-0_1_2.dir   = "";
   inputs.src-trick-0_1_2.type  = "github";
   
   inputs."nimpng".owner = "nim-nix-pkgs";

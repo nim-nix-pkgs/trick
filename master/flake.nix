@@ -11,7 +11,6 @@
   inputs.src-trick-master.ref   = "refs/heads/master";
   inputs.src-trick-master.owner = "exelotl";
   inputs.src-trick-master.repo  = "trick";
-  inputs.src-trick-master.dir   = "";
   inputs.src-trick-master.type  = "github";
   
   inputs."nimpng".owner = "nim-nix-pkgs";
