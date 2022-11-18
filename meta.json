@@ -126,7 +126,7 @@
   "heads": [
     {
       "name": "trick",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "author": "exelotl",
       "desc": "GBA image conversion library and more",
       "license": "zlib",
