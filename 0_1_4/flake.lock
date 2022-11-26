@@ -232,7 +232,7 @@
         "flakeNimbleLib": "flakeNimbleLib",
         "nimpng": "nimpng",
         "nixpkgs": "nixpkgs_2",
-        "src-trick-master": "src-trick-master"
+        "src-trick-0_1_4": "src-trick-0_1_4"
       }
     },
     "src-nimPNG-v0_3_2": {
@@ -252,7 +252,7 @@
         "type": "github"
       }
     },
-    "src-trick-master": {
+    "src-trick-0_1_4": {
       "flake": false,
       "locked": {
         "lastModified": 1668992412,
@@ -264,7 +264,7 @@
       },
       "original": {
         "owner": "exelotl",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/0.1.4",
         "repo": "trick",
         "type": "github"
       }
